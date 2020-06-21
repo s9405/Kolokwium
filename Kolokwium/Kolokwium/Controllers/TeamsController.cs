@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Kolokwium.Controllers
 {
-    public class DefaultController : Controller
+    public class TeamsController : Controller
     {
         public IActionResult Index()
         {
